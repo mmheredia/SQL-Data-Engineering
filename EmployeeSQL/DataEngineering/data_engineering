@@ -55,7 +55,6 @@ CREATE TABLE dept_manager(
 	FOREIGN KEY (emp_no) REFERENCES salaries (emp_no)
 );
 
--- Search for employee number 499942
 SELECT * FROM dept_manager;
 
 
