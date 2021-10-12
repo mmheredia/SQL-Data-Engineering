@@ -55,7 +55,8 @@ FROM employees
 GROUP BY last_name
 ORDER BY "Count of Employee Last Name" DESC;
 
-
+SELECT * FROM employees
+WHERE emp_no = 499942
 
 
 
