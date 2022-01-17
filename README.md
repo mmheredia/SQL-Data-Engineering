@@ -1,6 +1,6 @@
 # SQL Challenge
 
-<img src="Images/sql.jpg" width="75%" align="center"/>
+<img src="Images/sql.jpg" width="100%" align="center"/>
 
 #### This SQL challenge dives into data modeling, engineering, and analysis skills. Employee data is pulled from Pewlett Hackard Corperation from the 1980s to the 1990s. Data sets are provided in CSV format. Databases were created using Postgres and tables were created before importing the CSV files to fill the tables. Once filled, analysis began.
 
